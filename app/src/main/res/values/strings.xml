@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الترحيب</string>
+    <string name="app_title">تطبيق الترحيب بالمستخدم</string>
+    <string name="app_course">مقرر برمجة تطبيقات Android</string>
+    <string name="greeting_initial">مرحبًا بك</string>
+    <string name="instruction">أدخل اسمك ثم اضغط على الزر لعرض رسالة الترحيب.</string>
+    <string name="name_hint">اكتب اسمك هنا</string>
+    <string name="btn_show">عرض الترحيب</string>
+    <string name="welcome_message">مرحباً بك، %1$s</string>
+    <string name="error_empty_name">يرجى إدخال الاسم أولاً</string>
+</resources>
